@@ -27,4 +27,5 @@ Haz clic en "Sortear" para conocer tu amigo secreto.
 
 **Carlos Javier Otero**
 
-![src/assets/amigo_secreto.png](https://github.com/Charly92cjo/amigo_secreto/blob/main/assets/amigo-secreto.png)
+![src/assets/amigo_secreto.png](https://github.com/Charly92cjo/amigo_secreto/blob/main/assets/amigo_secreto.png)
+
