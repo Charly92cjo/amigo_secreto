@@ -38,3 +38,9 @@ function sortearAmigo() {
 
 botonAgregar.addEventListener("click", agregarAmigo);
 botonSortear.addEventListener("click", sortearAmigo);
+
+
+console.log(
+  "%c¡Bienvenido a mi página! 😊 ¿Eres un explorador curioso? Soy Charly Otero. Gracias por visitar, ¡espero que te guste!",
+  "color:#0f0;background:#000;padding:50px;border:3px solid #00f;font-family:Lobster;font-size:15px"
+);
